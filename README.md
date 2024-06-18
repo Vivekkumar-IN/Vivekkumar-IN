@@ -13,4 +13,6 @@
 
 <p align="center">
 
-Just Editing telegram's Pyrogram bot 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar-IN&layout=compact&theme=tokyonight" align="center">
+
+## Just Editing telegram's Pyrogram bot 
