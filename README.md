@@ -15,4 +15,7 @@
 
 [![Vivek's WakeTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivekKumar-in)](https://github.com/vivekKumar-in)
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vivekKumar-ine" align="center">
+
+
 ## Just Editing Pyrogram's bot 
