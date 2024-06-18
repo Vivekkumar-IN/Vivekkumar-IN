@@ -13,4 +13,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar-IN&layout=pie" align="center">
 
+[![Vivek's WakeTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VivekKumar-IN)](https://github.com/VivekKumar-IN)
+
 ## Just Editing Pyrogram's bot 
