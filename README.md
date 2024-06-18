@@ -11,6 +11,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar-IN&layout=default" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar-IN&layout=full" align="center">
 
 ## Just Pyrogram's bot 
