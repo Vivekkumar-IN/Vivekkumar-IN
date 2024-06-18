@@ -15,6 +15,6 @@
 
 ### Top Language Used
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar-IN&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar-IN&layout=compact" align="center">
 
 ## Just Editing telegram's Pyrogram bot 
