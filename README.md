@@ -13,4 +13,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar-IN&layout=compact" align="center">
 
-## Just Editing telegram's Pyrogram bot 
+## Just Pyrogram's bot 
